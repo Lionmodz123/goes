@@ -1,18 +1,18 @@
-                                                ##############1# JUARA LIGA EROPA############
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/BetaGlobalProject/LOGO27/main/uefa.png" group-title="#1# LIGA CHAMPION EROPA", LIVE 1
+                                                ############## JUARA LIGA EROPA############
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/BetaGlobalProject/LOGO27/main/uefa.png" group-title="LIGA CHAMPION", LIVE 1
 https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/BetaGlobalProject/LOGO27/main/uefa.png" group-title="#1# LIGA CHAMPION EROPA",LIVE 2
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/BetaGlobalProject/LOGO27/main/uefa.png" group-title="LIGA CHAMPION",LIVE 2
 https://dai.google.com/linear/hls/event/LK-ik89MQIi_pWBbg74KNQ/master.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/BetaGlobalProject/LOGO27/main/uefa.png" group-title="#1# LIGA CHAMPION EROPA",LIVE 3
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/BetaGlobalProject/LOGO27/main/uefa.png" group-title="LIGA CHAMPION",LIVE 3
 https://dai.google.com/linear/hls/event/BCOFZq1JQjq12fmaO6lAAA/master.m3u8
 http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:01:69:ef&stream=5477_&extension=m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/BetaGlobalProject/LOGO27/main/uefa.png" group-title="#1# LIGA CHAMPION EROPA", LIVE 4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/BetaGlobalProject/LOGO27/main/uefa.png" group-title="LIGA CHAMPION", LIVE 4
 http://server.sibfungold.info:8080/live/am20ammeha2014/WFQt4WFQt4CdzO7CdzO7/54482.m3u8
-#EXTINF:-1 group-title="#1# LIGA CHAMPION EROPA" tvg-id="bein#1# LIGA CHAMPION EROPA3thailand.th" tvg-logo="https://raw.githubusercontent.com/BetaGlobalProject/LOGO27 /main/uefa.png", LANGSUNG 5
+#EXTINF:-1 group-title="LIGA CHAMPION" tvg-id="bein#1# LIGA CHAMPION EROPA3thailand.th" tvg-logo="https://raw.githubusercontent.com/BetaGlobalProject/LOGO27 /main/uefa.png", LANGSUNG 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=aa724943787320593f5563048c90032d:a039276254f53769b040199a4eca8c2c
 https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0003/DASH/S0003.mpd
-#EXTINF:-1 group-title="#1# LIGA CHAMPION EROPA" tvg-id="bein#1# LIGA CHAMPION EROPA4thailand.th" tvg-logo="https://raw.githubusercontent.com/BetaGlobalProject/LOGO27 /main/uefa.png", LANGSUNG 6
+#EXTINF:-1 group-title="LIGA CHAMPION" tvg-id="bein#1# LIGA CHAMPION EROPA4thailand.th" tvg-logo="https://raw.githubusercontent.com/BetaGlobalProject/LOGO27 /main/uefa.png", LANGSUNG 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cb419fa5f5498e2c6cbc39363248ddd7:b5853b51f2060025a822e62973154556
