@@ -1713,7 +1713,7 @@ https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https:// beetv.my.id/logo/proliga.png" group-title="DIRGA TV | NASIONAL", ProLiga 2024 
+#EXTINF:1.533333 tvg-id="" tvg-logo="https:// beetv.my.id/logo/proliga.png" group-title="DIRGA TV | NASIONAL", ProLiga 2024 
 #EXTVLCOPT:http-referrer=https://www.vidio.com/ 
 #EXTVLCOPT:http-user-agent= VidioPlayer/6.26.10 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
