@@ -1715,7 +1715,7 @@ https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
 https://play.gachor99.my.id:443/NcPfpppNKd/hmtv_lite/117
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1024px-Moji_blue.svg.png" group-title="DIRGA TV | NASIONAL", MOJI TV 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1024px-Moji_blue.svg.png" group-title="DIRGA TV | NASIONAL", MOJI TV 2
 #https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=206&type=hls
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1024px-Moji_blue.svg.png" group-title="DIRGA TV | NASIONAL", MOJI TV UHF 🇮🇩
