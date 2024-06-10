@@ -4,9 +4,7 @@ http://iptvkita.my.id:25461/dirga/dirga/3515
 #EXTINF:-1 tvg-id="TransTV" tvg-name="TRANS TV HD" tvg-logo="https://hometv.pw/logo/lokal2/transtv.png" group-title="LOKAL",TRANS TV HD
 http://iptvkita.my.id:25461/dirga/dirga/3516
 #EXTINF:-1 tvg-id="Indosiar" tvg-name="INDOSIAR HD" tvg-logo="https://hometv.pw/logo/lokal2/indosiar.png" group-title="LOKAL",INDOSIAR HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 ExoPlayerLib
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
 http://iptvkita.my.id:25461/dirga/dirga/3517
 
 #EXTINF:-1 tvg-id="SCTV" tvg-name="SCTV HD" tvg-logo="https://hometv.pw/logo/lokal2/sctv.png" group-title="LOKAL",SCTV HD
