@@ -31,6 +31,7 @@ https://luxury.tv/MGJmMGU2M2I1MjM5Yjg2MjLxNkEl9nOqohTD0K82wcJjRs1SYzeIT9FE3lAjAY
 
 ///////////////////////////////
 #EXTINF:0 group-title="Lokal FHD" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_indosiar.png", INDOSIAR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 https://luxurystream.my.id/live/89FAF0B274E8E4C8E7CEFE99C0AB2BA4/24.ts
 
 //////////////////////////////
